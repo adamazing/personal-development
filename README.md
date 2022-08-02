@@ -70,15 +70,15 @@ This section will encompass anything that doesn't directly support immediate per
 ## [Rustlang](https://www.rust-lang.org/)
 
   * Knowledge
+    * [Rust By Example Book](https://doc.rust-lang.org/rust-by-example/index.html)
     * ...
   * Project Repositories
     * [rust-by-example](https://github.com/adamazing/rust-by-example)
+      A repo for exercises, trying things out, expanding on book examples
     * [bevy-tutorial](https://github.com/adamazing/bevy-tutorial)
+      Working through the bevy tutorial to build a little game
   * Exercises / Kata / Testing
     * [Exercism Rust Track]()
   * Communication
     * ...
-
-
-
 
