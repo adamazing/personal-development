@@ -28,7 +28,8 @@ See: [Small Improvements](https://app.small-improvements.com/app/home).
 
 These are personal goals that may or may not be technical in nature and may or may not even be career related.
 
-  1. TODO: add personal goals
+  1. Solidify knowledge of Rails
+    a. Routing
 
 ----
 
