@@ -30,6 +30,9 @@ These are personal goals that may or may not be technical in nature and may or m
 
   1. Solidify knowledge of Rails
     a. Routing
+    b. Hotwire/Rails 7
+  1. Build People Lead skills
+    a. ...
 
 ----
 
