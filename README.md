@@ -10,29 +10,35 @@ of my personal development goals and provide personal accountability.
 
 # Goals / Areas Of Focus
 
-  > "A goal is not always meant to be reached, it often serves simply as something to aim at." - Bruce Lee
+  > *A goal is not always meant to be reached, it often serves simply as something to aim at.* <br />
+  > &nbsp;&nbsp;&nbsp;  ---   Bruce Lee
 
 Goals are at the highest level and a target to aim at.
 
 ## Flick Performance-Review Related Goals
 
-These goals are 6-12 month performance-review goals as set with @DanM in 1-on-1s.
-See: [Small Improvements](https://app.small-improvements.com/app/home).
+These goals are 6-12 month performance-review goals for the current (2022-2023) cycle as set with @DanM in 1-on-1s.
+See: [Small Improvements](https://app.small-improvements.com/app/objectives).
 
-  1. Develop epic/task breakdown skills.
-  1. Develop understanding of Enable squad's domain.
-  1. Develop understanding of wider Electricity Retailer Industry domain.
-  1. Contribute to/lead discussions on team process.
+  1. Lead discussions about squad practices and processes and discusses improvements with the squad
+      - [Small Improvements](https://app.small-improvements.com/app/objectives/YkyEMuYF3OktAKylEnSgoA/q048JXuh6cY5UBWvEalagw)
+      - [PD Repo](/review-objectives/2022-2023-cycle/squad-practices/README.md)
+  1. Have a thorough understanding of their squad's domain and Electricity Retailer marketplace, and how it contributes to overall business strategy
+      - [Small Improvements](https://app.small-improvements.com/app/objectives/YkyEMuYF3OktAKylEnSgoA/4E202NttCYRC6vwrjlF0rw)
+      - [PD Repo](/review-objectives/2022-2023-cycle/understanding-enable-domain/README.md)
+  1. Work breakdown as part of incremental value delivery
+      - [Small Improvements](https://app.small-improvements.com/app/objectives/YkyEMuYF3OktAKylEnSgoA/qU0dIFREAtjN5SWuvQvmsw)
+      - [PD Repo](/review-objectives/2022-2023-cycle/work-breakdown/README.md)
 
 ## Personal Goals
 
 These are personal goals that may or may not be technical in nature and may or may not even be career related.
 
-  1. Solidify knowledge of Rails
-    a. Routing
-    b. Hotwire/Rails 7
+  1. Solidify & develop knowledge of new Rails features
+      1. Hotwire/Rails 7
   1. Build People Lead skills
-    a. ...
+      1. Go through Ankita Kulkarni course
+      1. Read Managing Humans on Bookshelf
 
 ----
 
@@ -45,8 +51,15 @@ Ideas for PD time or hackdays that aim to directly support performance goals. Wh
 ### Tasks / Activities
 
   * Diagram processes / current state of Enable services (Goals 1 & 2)
-    * Use [PlantUML](https://plantuml.com) to diagram Payment Arrangements work
-    * Use PlantUML to diagram Enable-stewarded services and their interactions, e.g. Billing/Payments
+    * ~~Use [PlantUML](https://plantuml.com) to diagram Payment Arrangements work~~
+    * ~~Use PlantUML to diagram Enable-stewarded services and their interactions, e.g. Billing/Payments~~
+    * Use Miro to whiteboard payments admin app flows/actions
+    * Look at other Diagram-As-Code tools more suited for describing flows & system interactions than PlantUML, e.g. [Mermaid](https://mermaid.js.org/intro)
+  * Task breakdown activities
+    * Join Elspeth to refine user stories for Billing Tools.
+  * Take notes on squad practices and actions
+    * Contribute more during retrospectives
+    * Contribute ideas for actions/ways-of-working
 
 ### Reading / Resources
 
@@ -54,22 +67,47 @@ Ideas for PD time or hackdays that aim to directly support performance goals. Wh
     * [Domain Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html)
     * [Domain Driven Design Albera Tree](https://app.albera.com/u/adam935ee6/domain-driven-design/)
     * [Microservices Architecture Albera Tree](https://app.albera.com/u/adam935ee6/microservices-architecture/)
-  *
+  * ...
 
-## PD Time Research/Activities in support of Flick Hackdays Projects
+# Flick Hackdays Projects
 
-A place to record any personal/work PD time invested in growing skills that may only be relevant in support of the most tangential work-related projects. Associate topics in this section with the relevant Trello card on the Hackdays board.
+Notes about past, present, and future projects completed/planned for hackdays/hack time.
 
 ### ZSH (And Posix) Scripting
 
 `flick_cli` has a shell-script component that launches various commands like aws, terraform, etc. but also connects to the rails console and bash console on instances of Flick services.
-    *
+  * Adding auto-complete configuration files for flick_cli
+  * Adding auto-complete auto-install
+  * Making the foreground and background colours shown for production instances of Flick services configurable.
+
+### Flick Lint
+
+`flick_lint` is a central repository for lint configs/coding standards tools, i.e. Rubocop
+<!-- TODO: Add examples -->
+  * Hacktime projects:
+    * Custom Rubocops
+    * Adding auto-correction rules for existing custom rubocops
+    * Adding flick_lint to projects/services depending on rubocop directly.
+
+## Personal Development supporting Hackdays projects
+
+A place to record any personal/work PD time invested in growing skills that may be only tangentially related to day-to-day Flick-work.
+E.g. Time spent researching other services ahead of a hackdays project in another squad's domain
+
+  * ...
+
+
+<br />
+<br />
 
 -----
 
+<br />
+<br />
+
 # Other Interests
 
-This section will encompass anything that doesn't directly support immediate performance-related goals.
+This section is for dumping things I'm doing outside of work:
 
 ## [Rustlang](https://www.rust-lang.org/)
 
@@ -78,11 +116,14 @@ This section will encompass anything that doesn't directly support immediate per
     * ...
   * Project Repositories
     * [rust-by-example](https://github.com/adamazing/rust-by-example)
-      A repo for exercises, trying things out, expanding on book examples
+      - A repo for exercises, trying things out, expanding on book examples.
     * [bevy-tutorial](https://github.com/adamazing/bevy-tutorial)
-      Working through the bevy tutorial to build a little game
+      - Working through the bevy tutorial to build a little game.
+    * [colorbuddy](https://github.com/adamazing/colorbuddy)
+      - A command line tool for generating a color palette from an image.
   * Exercises / Kata / Testing
     * [Exercism Rust Track]()
   * Communication
     * ...
+
 
