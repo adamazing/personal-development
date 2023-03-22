@@ -1,11 +1,12 @@
+## Have a thorough understanding of their squad's domain and Electricity Retailer marketplace, and how it contributes to overall business strategy
+
 <!--toc:start-->
-- [Have a thorough understanding of their squad's domain and Electricity Retailer marketplace, and how it contributes to overall business strategy](#have-a-thorough-understanding-of-their-squads-domain-and-electricity-retailer-marketplace-and-how-it-contributes-to-overall-business-strategy)
-    - [What](#what)
-    - [Why](#why)
-    - [How](#how)
+  - [What](#what)
+  - [Why](#why)
+  - [How](#how)
 <!--toc:end-->
 
-# Have a thorough understanding of their squad's domain and Electricity Retailer marketplace, and how it contributes to overall business strategy
+----
 
 ### What
 

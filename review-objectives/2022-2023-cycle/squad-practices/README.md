@@ -1,11 +1,12 @@
+## Lead discussions about squad practices and processes and discusses improvements with the squad
+
 <!--toc:start-->
-- [Lead discussions about squad practices and processes and discusses improvements with the squad](#lead-discussions-about-squad-practices-and-processes-and-discusses-improvements-with-the-squad)
-    - [What](#what)
-    - [Why](#why)
-    - [How](#how)
+  - [What](#what)
+  - [Why](#why)
+  - [How](#how)
 <!--toc:end-->
 
-# Lead discussions about squad practices and processes and discusses improvements with the squad
+----
 
 ### What
 
@@ -19,7 +20,7 @@ Continuous improvement should be applied to ways of working but requires intenti
 
 ### How
 
-  - Take notes on perceived issues as they happen to enable and inform:
+  - Take [notes](notes.md) on perceived issues as they happen to enable and inform:
     - Engagement in squad rituals such as retrospectives and
     - Topic specific discussions about ways we can improve as a team.
 

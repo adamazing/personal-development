@@ -1,11 +1,12 @@
-# Work breakdown as part of incremental delivery
+## Work breakdown as part of incremental delivery
 
 <!--toc:start-->
-- [Work breakdown as part of incremental delivery](#work-breakdown-as-part-of-incremental-delivery)
-    - [What](#what)
-    - [Why](#why)
-    - [How](#how)
+  - [What](#what)
+  - [Why](#why)
+  - [How](#how)
 <!--toc:end-->
+
+---
 
 ### What
 
