@@ -83,10 +83,9 @@ Notes about past, present, and future projects completed/planned for hackdays/ha
 ### Flick Lint
 
 `flick_lint` is a central repository for lint configs/coding standards tools, i.e. Rubocop
-<!-- TODO: Add examples -->
   * Hacktime projects:
     * Custom Rubocops
-    * Adding auto-correction rules for existing custom rubocops
+    * Adding auto-correction rules for existing custom rubocops <- Love this!
     * Adding flick_lint to projects/services depending on rubocop directly.
 
 ## Personal Development supporting Hackdays projects

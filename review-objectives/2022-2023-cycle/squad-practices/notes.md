@@ -53,6 +53,8 @@ This is a place to make notes during sprints so that -- come retrospective -- I 
     - Sufficient detail is ✨awesome✨
     - Too much detail can be a waste of time/detrimental to understanding 🙁
   + First time doing performance reviews, trying my best and feeling it 😥
+    - Conscious that I have struggled to deliver other things while focussing on reviews
+    - Already planning for the next 6-12 months to work out ways to make review time easier and discussing ways to do that with EmmaB and the Tech People Leads
 
 #### Ideas - Sprint 5
   + How can we as a squad best support Brother Francisco in his Personal Development/Ruby-learning Adventures
