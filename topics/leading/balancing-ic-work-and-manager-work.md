@@ -57,17 +57,21 @@ As with IC/technical work, don't focus on the out*PUT*, focus on the out*COME*
   - Team Ceremony Facilitation
 
 #### Eisenhower matrix
+![image](https://github.com/adamazing/personal-development/assets/2782959/ba4c7bff-93d9-4ec0-9893-4eae6bc4029f)
 
+<!-- 
+Github doesn't support mermaid quadrant charts :( 
 ```mermaid
 %%{init: {"quadrantChart": {"chartWidth": 400, "chartHeight": 400}, "themeVariables": {"quadrant4TextFill": "#ff0000", "quadrant2TextFill": "#66e600", "quadrant1TextFill": "#ffbf00", "quadrant3TextFill": "#ffbf00"} }}%%
 quadrantChart
-  x-axis "Urgent ⏲️" --> "Not Urgent ⏳"
-  y-axis "Not Important 🤷" --> "Important ❤"
+  x-axis "Urgent ⏲️" - -> "Not Urgent ⏳"
+  y-axis "Not Important 🤷" - -> "Important ❤"
   quadrant-1 Plan
   quadrant-2 Do
   quadrant-3 Delegate
   quadrant-4 Delete
 ```
+-->
 
 ## Self-care
 
