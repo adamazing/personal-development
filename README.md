@@ -125,4 +125,32 @@ This section is for dumping things I'm doing outside of work:
   * Communication
     * ...
 
+## Upskilling platforms to investigate
 
+### Codecrafters
+[https://app.codecrafters.io/](https://app.codecrafters.io/)
+
+[Discounted sign-up link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNuUlN3WEc5RDFmMjVsNkhheTBaRm9od01yQXxBQ3Jtc0ttNWx2dmxjZkNOeWcwdzdYMEpBM1BpX0NBcDlhbmhGQkh4MTZpWHl6U3hWb0NMaFBWWVdDRGhyanl4Xy1VeElVUGQzN21tOEx1OUhVX19nMXpJTGlpb3lINy1OajZjV2JjTDE3cmxsS1VyS21xT0Viaw&q=https%3A%2F%2Fapp.codecrafters.io%2Fjoin%3Fvia%3Djonhoo&v=jf_ddGnum_4)
+
+**N.B.**  
+ - Prices in US Dollars
+ - One off payments
+#### Membership benefits
+
+|     |Base| Membership | Teams (5+)|
+|:----|:---|:-----------|:----------|
+|Cost|Free|From $40/m (see below)| From $39/month/seat|
+|Features:|Limited content access|Everything in Base plan|Everything in Membership plan|
+||Community features|No limits on content|Unlimited seat re-assigns|
+|||Access to Perks|Team leaderboard|
+|||Priority support|Team usage analytics|
+||||Slack app|
+||[Get started](https://app.codecrafters.io/catalog)|[Get membership](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjNuUlN3WEc5RDFmMjVsNkhheTBaRm9od01yQXxBQ3Jtc0ttNWx2dmxjZkNOeWcwdzdYMEpBM1BpX0NBcDlhbmhGQkh4MTZpWHl6U3hWb0NMaFBWWVdDRGhyanl4Xy1VeElVUGQzN21tOEx1OUhVX19nMXpJTGlpb3lINy1OajZjV2JjTDE3cmxsS1VyS21xT0Viaw&q=https%3A%2F%2Fapp.codecrafters.io%2Fjoin%3Fvia%3Djonhoo&v=jf_ddGnum_4)|[Get team plan](https://app.codecrafters.io/teams/pay)|
+
+#### Pricing
+
+|Price|Duration|Notes||
+|:--|:--|--|--
+|$120| 3 months|
+|$216| 1 year| $360 without discount|
+|$990| Lifetime access||
